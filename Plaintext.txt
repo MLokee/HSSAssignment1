@@ -1,0 +1,2 @@
+This is file contain plaintext
+which should be encrypted after app running
